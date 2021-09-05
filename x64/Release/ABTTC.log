@@ -1,0 +1,35 @@
+﻿  CAlly.cpp
+  CApplication.cpp
+  CBuilding.cpp
+  CBuildMenu.cpp
+  CBuildPhaseMenu.cpp
+  CCoopGame.cpp
+  CDefenseBuilding.cpp
+  CDefensePhase.cpp
+  CEconomyBuilding.cpp
+  CEnemyCamp.cpp
+  CGAME.cpp
+  CInterface.cpp
+  CMainMenu.cpp
+  CMap.cpp
+  CPlayer.cpp
+  CPosition.cpp
+  CResource.cpp
+  CResourceBuilding.cpp
+  CScout.cpp
+  CScoutAway.cpp
+  Compiling...
+  CSingleGame.cpp
+  CSmallTile.cpp
+  CStorage.cpp
+  CTile.cpp
+  CTokenPutter.cpp
+  CTokenReader.cpp
+  CUnit.cpp
+  functions.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ABTTC.vcxproj -> C:\Users\vejvo\Documents\FIT-CVUT\PA2\ABTTC\x64\Release\ABTTC.exe
